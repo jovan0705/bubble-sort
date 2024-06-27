@@ -1,0 +1,1 @@
+Bubble sort memiliki Algoritma O(n^2) karena operasi jalannya kode melakukan perbandingan dan penukaran elemen secara berulang-ulang, dengan adanya double loop, maka pengulangan akan terjadi sejumlah kuadrat dari jumlah elemen di array.
